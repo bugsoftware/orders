@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-14 16:01-0500\n"
+"POT-Creation-Date: 2021-12-14 16:57-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgstr ""
 # File: module/Application/src/Controller/Orders.php, line: 243
 # File: module/Application/src/Controller/Orders.php, line: 357
 # File: module/Application/src/Controller/Orders.php, line: 373
-# File: module/Application/src/Controller/Categories.php, line: 98
+# File: module/Application/src/Controller/Categories.php, line: 101
 # File: module/Application/src/Controller/Products.php, line: 101
 # File: module/Application/src/Controller/Products.php, line: 117
 msgid "Unknown"
@@ -62,7 +62,7 @@ msgid "You appear to have entered an invalid user name or password"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 4
-# File: module/Application/view/layout/layout.phtml, line: 116
+# File: module/Application/view/layout/layout.phtml, line: 138
 msgid "New User"
 msgstr ""
 #
@@ -85,10 +85,11 @@ msgstr ""
 # File: module/Application/view/application/users/search.phtml, line: 13
 # File: module/Application/view/application/users/search.phtml, line: 102
 # File: module/Application/view/application/users/index.phtml, line: 97
+# File: module/Application/view/application/index/index.phtml, line: 67
 # File: module/Application/view/application/customers/new.phtml, line: 12
 # File: module/Application/view/application/customers/search.phtml, line: 13
 # File: module/Application/view/application/customers/search.phtml, line: 96
-# File: module/Application/view/application/customers/index.phtml, line: 97
+# File: module/Application/view/application/customers/index.phtml, line: 102
 msgid "First Name"
 msgstr ""
 #
@@ -96,10 +97,11 @@ msgstr ""
 # File: module/Application/view/application/users/search.phtml, line: 19
 # File: module/Application/view/application/users/search.phtml, line: 104
 # File: module/Application/view/application/users/index.phtml, line: 99
+# File: module/Application/view/application/index/index.phtml, line: 69
 # File: module/Application/view/application/customers/new.phtml, line: 16
 # File: module/Application/view/application/customers/search.phtml, line: 19
 # File: module/Application/view/application/customers/search.phtml, line: 98
-# File: module/Application/view/application/customers/index.phtml, line: 99
+# File: module/Application/view/application/customers/index.phtml, line: 104
 msgid "Last Name"
 msgstr ""
 #
@@ -108,11 +110,12 @@ msgstr ""
 # File: module/Application/view/application/users/search.phtml, line: 110
 # File: module/Application/view/application/users/index.phtml, line: 105
 # File: module/Application/view/application/profile/index.phtml, line: 155
+# File: module/Application/view/application/index/index.phtml, line: 75
 # File: module/Application/view/application/my-account/index.phtml, line: 82
 # File: module/Application/view/application/customers/new.phtml, line: 20
 # File: module/Application/view/application/customers/search.phtml, line: 25
 # File: module/Application/view/application/customers/search.phtml, line: 102
-# File: module/Application/view/application/customers/index.phtml, line: 105
+# File: module/Application/view/application/customers/index.phtml, line: 110
 msgid "Phone"
 msgstr ""
 #
@@ -182,7 +185,7 @@ msgid "City"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 102
-# File: module/Application/view/application/categories/new.phtml, line: 28
+# File: module/Application/view/application/categories/new.phtml, line: 27
 # File: module/Application/view/application/orders/new.phtml, line: 43
 # File: module/Application/view/application/products/new.phtml, line: 56
 # File: module/Application/view/application/customers/new.phtml, line: 82
@@ -190,7 +193,7 @@ msgid "Reset"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 104
-# File: module/Application/view/application/categories/new.phtml, line: 30
+# File: module/Application/view/application/categories/new.phtml, line: 29
 # File: module/Application/view/application/orders/new.phtml, line: 45
 # File: module/Application/view/application/products/new.phtml, line: 58
 # File: module/Application/view/application/customers/new.phtml, line: 84
@@ -199,7 +202,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 117
 # File: module/Application/view/application/users/search.phtml, line: 204
-# File: module/Application/view/application/categories/new.phtml, line: 43
+# File: module/Application/view/application/categories/new.phtml, line: 42
 # File: module/Application/view/application/categories/search.phtml, line: 167
 # File: module/Application/view/application/profile/index.phtml, line: 246
 # File: module/Application/view/application/orders/new.phtml, line: 58
@@ -214,7 +217,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 132
 # File: module/Application/view/application/users/search.phtml, line: 219
-# File: module/Application/view/application/categories/new.phtml, line: 58
+# File: module/Application/view/application/categories/new.phtml, line: 57
 # File: module/Application/view/application/categories/search.phtml, line: 182
 # File: module/Application/view/application/profile/index.phtml, line: 261
 # File: module/Application/view/application/orders/new.phtml, line: 73
@@ -229,7 +232,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 145
 # File: module/Application/view/application/users/search.phtml, line: 232
-# File: module/Application/view/application/categories/new.phtml, line: 71
+# File: module/Application/view/application/categories/new.phtml, line: 70
 # File: module/Application/view/application/categories/search.phtml, line: 195
 # File: module/Application/view/application/profile/index.phtml, line: 274
 # File: module/Application/view/application/orders/new.phtml, line: 86
@@ -339,7 +342,7 @@ msgid "Select city"
 msgstr ""
 #
 # File: module/Application/view/application/users/search.phtml, line: 4
-# File: module/Application/view/layout/layout.phtml, line: 118
+# File: module/Application/view/layout/layout.phtml, line: 142
 msgid "Search User"
 msgstr ""
 #
@@ -349,7 +352,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 80
 # File: module/Application/view/application/customers/search.phtml, line: 31
 # File: module/Application/view/application/customers/search.phtml, line: 100
-# File: module/Application/view/application/customers/index.phtml, line: 103
+# File: module/Application/view/application/customers/index.phtml, line: 108
 msgid "Email"
 msgstr ""
 #
@@ -362,14 +365,14 @@ msgstr ""
 # File: module/Application/view/application/products/search.phtml, line: 19
 # File: module/Application/view/application/products/index.phtml, line: 38
 # File: module/Application/view/application/customers/search.phtml, line: 37
-# File: module/Application/view/application/customers/index.phtml, line: 38
-# File: module/Application/view/layout/layout.phtml, line: 62
+# File: module/Application/view/application/customers/index.phtml, line: 47
+# File: module/Application/view/layout/layout.phtml, line: 64
 msgid "Search"
 msgstr ""
 #
 # File: module/Application/view/application/users/search.phtml, line: 70
 # File: module/Application/view/application/users/index.phtml, line: 65
-# File: module/Application/view/layout/layout.phtml, line: 113
+# File: module/Application/view/layout/layout.phtml, line: 133
 msgid "Users"
 msgstr ""
 #
@@ -410,7 +413,7 @@ msgstr ""
 # File: module/Application/view/application/orders/pending.phtml, line: 18
 # File: module/Application/view/application/orders/index.phtml, line: 18
 # File: module/Application/view/application/products/index.phtml, line: 18
-# File: module/Application/view/application/customers/index.phtml, line: 18
+# File: module/Application/view/application/customers/index.phtml, line: 17
 msgid "Show only"
 msgstr ""
 #
@@ -418,7 +421,7 @@ msgstr ""
 # File: module/Application/view/application/orders/pending.phtml, line: 19
 # File: module/Application/view/application/orders/index.phtml, line: 19
 # File: module/Application/view/application/products/index.phtml, line: 19
-# File: module/Application/view/application/customers/index.phtml, line: 19
+# File: module/Application/view/application/customers/index.phtml, line: 18
 msgid "All"
 msgstr ""
 #
@@ -434,7 +437,7 @@ msgstr ""
 # File: module/Application/view/application/orders/pending.phtml, line: 21
 # File: module/Application/view/application/orders/index.phtml, line: 21
 # File: module/Application/view/application/products/index.phtml, line: 21
-# File: module/Application/view/application/customers/index.phtml, line: 21
+# File: module/Application/view/application/customers/index.phtml, line: 22
 msgid "Opened but unanswered"
 msgstr ""
 #
@@ -442,7 +445,7 @@ msgstr ""
 # File: module/Application/view/application/orders/pending.phtml, line: 22
 # File: module/Application/view/application/orders/index.phtml, line: 22
 # File: module/Application/view/application/products/index.phtml, line: 22
-# File: module/Application/view/application/customers/index.phtml, line: 22
+# File: module/Application/view/application/customers/index.phtml, line: 24
 msgid "Answered"
 msgstr ""
 #
@@ -450,7 +453,7 @@ msgstr ""
 # File: module/Application/view/application/orders/pending.phtml, line: 23
 # File: module/Application/view/application/orders/index.phtml, line: 23
 # File: module/Application/view/application/products/index.phtml, line: 23
-# File: module/Application/view/application/customers/index.phtml, line: 23
+# File: module/Application/view/application/customers/index.phtml, line: 26
 msgid "Unsunscribed"
 msgstr ""
 #
@@ -458,7 +461,7 @@ msgstr ""
 # File: module/Application/view/application/orders/pending.phtml, line: 29
 # File: module/Application/view/application/orders/index.phtml, line: 29
 # File: module/Application/view/application/products/index.phtml, line: 29
-# File: module/Application/view/application/customers/index.phtml, line: 29
+# File: module/Application/view/application/customers/index.phtml, line: 33
 msgid "Filter segments"
 msgstr ""
 #
@@ -466,7 +469,7 @@ msgstr ""
 # File: module/Application/view/application/orders/pending.phtml, line: 30
 # File: module/Application/view/application/orders/index.phtml, line: 30
 # File: module/Application/view/application/products/index.phtml, line: 30
-# File: module/Application/view/application/customers/index.phtml, line: 30
+# File: module/Application/view/application/customers/index.phtml, line: 34
 msgid "Contacts in no segments"
 msgstr ""
 #
@@ -482,14 +485,14 @@ msgstr ""
 # File: module/Application/view/application/products/index.phtml, line: 31
 # File: module/Application/view/application/products/index.phtml, line: 32
 # File: module/Application/view/application/products/index.phtml, line: 33
-# File: module/Application/view/application/customers/index.phtml, line: 31
-# File: module/Application/view/application/customers/index.phtml, line: 32
-# File: module/Application/view/application/customers/index.phtml, line: 33
+# File: module/Application/view/application/customers/index.phtml, line: 36
+# File: module/Application/view/application/customers/index.phtml, line: 38
+# File: module/Application/view/application/customers/index.phtml, line: 40
 msgid "Segment"
 msgstr ""
 #
 # File: module/Application/view/application/categories/new.phtml, line: 4
-# File: module/Application/view/layout/layout.phtml, line: 106
+# File: module/Application/view/layout/layout.phtml, line: 125
 msgid "New Category"
 msgstr ""
 #
@@ -504,16 +507,16 @@ msgstr ""
 msgid "Parent Category"
 msgstr ""
 #
-# File: module/Application/view/application/categories/new.phtml, line: 85
+# File: module/Application/view/application/categories/new.phtml, line: 83
 msgid "Category is required"
 msgstr ""
 #
-# File: module/Application/view/application/categories/new.phtml, line: 86
+# File: module/Application/view/application/categories/new.phtml, line: 84
 msgid "In order to create a category, you need to input the category."
 msgstr ""
 #
 # File: module/Application/view/application/categories/search.phtml, line: 4
-# File: module/Application/view/layout/layout.phtml, line: 108
+# File: module/Application/view/layout/layout.phtml, line: 129
 msgid "Search Category"
 msgstr ""
 #
@@ -524,7 +527,7 @@ msgstr ""
 #
 # File: module/Application/view/application/categories/search.phtml, line: 47
 # File: module/Application/view/application/categories/index.phtml, line: 65
-# File: module/Application/view/layout/layout.phtml, line: 103
+# File: module/Application/view/layout/layout.phtml, line: 120
 msgid "Categories"
 msgstr ""
 #
@@ -543,14 +546,20 @@ msgid "Category"
 msgstr ""
 #
 # File: module/Application/view/application/login/index.phtml, line: 37
+# File: module/Application/view/application/index/index.phtml, line: 9
+# File: module/Application/view/application/index/index.phtml, line: 146
+# File: module/Application/view/application/index/index.phtml, line: 147
+# File: module/Application/view/application/index/index.phtml, line: 148
+# File: module/Application/view/application/index/index.phtml, line: 149
 # File: module/Application/view/application/orders/search.phtml, line: 49
 # File: module/Application/view/application/orders/index.phtml, line: 65
-# File: module/Application/view/layout/layout.phtml, line: 72
+# File: module/Application/view/layout/layout.phtml, line: 78
+# File: module/Application/view/layout/layout.phtml, line: 163
 msgid "Orders"
 msgstr ""
 #
 # File: module/Application/view/application/login/index.phtml, line: 49
-# File: module/Application/view/layout/layout.phtml, line: 178
+# File: module/Application/view/layout/layout.phtml, line: 199
 msgid "Support"
 msgstr ""
 #
@@ -576,8 +585,9 @@ msgstr ""
 #
 # File: module/Application/view/application/profile/index.phtml, line: 107
 # File: module/Application/view/application/profile/index.phtml, line: 115
+# File: module/Application/view/application/index/index.phtml, line: 77
 # File: module/Application/view/application/customers/new.phtml, line: 51
-# File: module/Application/view/application/customers/index.phtml, line: 101
+# File: module/Application/view/application/customers/index.phtml, line: 106
 msgid "Address"
 msgstr ""
 #
@@ -649,17 +659,66 @@ msgstr ""
 msgid "In order to create a customer, you need to input the phone of the customer."
 msgstr ""
 #
-# File: module/Application/view/application/orders/new.phtml, line: 4
-# File: module/Application/view/layout/layout.phtml, line: 75
-msgid "New Order"
+# File: module/Application/view/application/index/index.phtml, line: 16
+msgid "Choose Filter"
 msgstr ""
 #
+# File: module/Application/view/application/index/index.phtml, line: 17
+msgid "Today"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 18
+msgid "Tomorrow"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 19
+msgid "Next week"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 20
+msgid "Next 2 weeks"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 43
+msgid "Today's Orders"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 71
 # File: module/Application/view/application/orders/new.phtml, line: 12
 # File: module/Application/view/application/orders/pending.phtml, line: 99
 # File: module/Application/view/application/orders/search.phtml, line: 12
 # File: module/Application/view/application/orders/search.phtml, line: 81
 # File: module/Application/view/application/orders/index.phtml, line: 99
 msgid "Product"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 73
+msgid "Time"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 145
+msgid "Number of Orders"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 154
+msgid "First"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 157
+msgid "Previous"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 164
+msgid "Next"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 167
+msgid "Last"
+msgstr ""
+#
+# File: module/Application/view/application/orders/new.phtml, line: 4
+# File: module/Application/view/layout/layout.phtml, line: 83
+msgid "New Order"
 msgstr ""
 #
 # File: module/Application/view/application/orders/new.phtml, line: 19
@@ -689,12 +748,12 @@ msgid "In order to create a customer, you need to input the last name of the cus
 msgstr ""
 #
 # File: module/Application/view/application/orders/pending.phtml, line: 65
-# File: module/Application/view/layout/layout.phtml, line: 76
+# File: module/Application/view/layout/layout.phtml, line: 85
 msgid "Pending Orders"
 msgstr ""
 #
 # File: module/Application/view/application/orders/search.phtml, line: 4
-# File: module/Application/view/layout/layout.phtml, line: 78
+# File: module/Application/view/layout/layout.phtml, line: 89
 msgid "Search Order"
 msgstr ""
 #
@@ -741,7 +800,7 @@ msgid "In order to create a product, you need to input the name of the product."
 msgstr ""
 #
 # File: module/Application/view/application/products/search.phtml, line: 4
-# File: module/Application/view/layout/layout.phtml, line: 98
+# File: module/Application/view/layout/layout.phtml, line: 116
 msgid "Search Product"
 msgstr ""
 #
@@ -752,7 +811,7 @@ msgstr ""
 #
 # File: module/Application/view/application/products/search.phtml, line: 45
 # File: module/Application/view/application/products/index.phtml, line: 65
-# File: module/Application/view/layout/layout.phtml, line: 93
+# File: module/Application/view/layout/layout.phtml, line: 107
 msgid "Products"
 msgstr ""
 #
@@ -801,7 +860,7 @@ msgid "In order to edit profile, you need to input the phone."
 msgstr ""
 #
 # File: module/Application/view/application/customers/new.phtml, line: 4
-# File: module/Application/view/layout/layout.phtml, line: 86
+# File: module/Application/view/layout/layout.phtml, line: 99
 msgid "New Customer"
 msgstr ""
 #
@@ -822,8 +881,8 @@ msgid "Search Customer"
 msgstr ""
 #
 # File: module/Application/view/application/customers/search.phtml, line: 64
-# File: module/Application/view/application/customers/index.phtml, line: 65
-# File: module/Application/view/layout/layout.phtml, line: 83
+# File: module/Application/view/application/customers/index.phtml, line: 70
+# File: module/Application/view/layout/layout.phtml, line: 94
 msgid "Customers"
 msgstr ""
 #
@@ -831,67 +890,67 @@ msgstr ""
 msgid "In order to search a customer, you need to input the first name."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 77
+# File: module/Application/view/layout/layout.phtml, line: 87
 msgid "List Orders"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 87
+# File: module/Application/view/layout/layout.phtml, line: 101
 msgid "List Customers"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 88
+# File: module/Application/view/layout/layout.phtml, line: 103
 msgid "Search Customers"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 96
+# File: module/Application/view/layout/layout.phtml, line: 112
 msgid "New Product"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 97
+# File: module/Application/view/layout/layout.phtml, line: 114
 msgid "List Products"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 107
+# File: module/Application/view/layout/layout.phtml, line: 127
 msgid "List Categories"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 117
+# File: module/Application/view/layout/layout.phtml, line: 140
 msgid "List Users"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 122
+# File: module/Application/view/layout/layout.phtml, line: 147
 msgid "Company Profile"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 144
+# File: module/Application/view/layout/layout.phtml, line: 167
 msgid "Change Mode"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 154
+# File: module/Application/view/layout/layout.phtml, line: 175
 msgid "Notifications"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 159
-# File: module/Application/view/layout/layout.phtml, line: 164
+# File: module/Application/view/layout/layout.phtml, line: 180
+# File: module/Application/view/layout/layout.phtml, line: 184
 msgid "New order received"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 169
+# File: module/Application/view/layout/layout.phtml, line: 188
 msgid "Your campaign is about to end"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 175
+# File: module/Application/view/layout/layout.phtml, line: 195
 msgid "Contacts"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 182
+# File: module/Application/view/layout/layout.phtml, line: 205
 msgid "Perfil"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 185
+# File: module/Application/view/layout/layout.phtml, line: 209
 msgid "Log Out"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 186
+# File: module/Application/view/layout/layout.phtml, line: 211
 msgid "My Account"
 msgstr ""
