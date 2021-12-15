@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-15 05:33-0500\n"
+"POT-Creation-Date: 2021-12-15 08:50-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,7 +75,7 @@ msgid "Username"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 16
-# File: module/Application/view/application/login/index.phtml, line: 85
+# File: module/Application/view/application/login/index.phtml, line: 92
 # File: module/Application/view/application/my-account/index.phtml, line: 31
 # File: module/Application/view/application/customers/new.phtml, line: 63
 msgid "Password"
@@ -349,7 +349,7 @@ msgstr ""
 # File: module/Application/view/application/users/search.phtml, line: 37
 # File: module/Application/view/application/users/search.phtml, line: 108
 # File: module/Application/view/application/users/index.phtml, line: 103
-# File: module/Application/view/application/login/index.phtml, line: 80
+# File: module/Application/view/application/login/index.phtml, line: 87
 # File: module/Application/view/application/customers/search.phtml, line: 31
 # File: module/Application/view/application/customers/search.phtml, line: 100
 # File: module/Application/view/application/customers/index.phtml, line: 108
@@ -545,7 +545,7 @@ msgstr ""
 msgid "Category"
 msgstr ""
 #
-# File: module/Application/view/application/login/index.phtml, line: 37
+# File: module/Application/view/application/login/index.phtml, line: 44
 # File: module/Application/view/application/index/index.phtml, line: 9
 # File: module/Application/view/application/index/index.phtml, line: 146
 # File: module/Application/view/application/index/index.phtml, line: 147
@@ -558,20 +558,20 @@ msgstr ""
 msgid "Orders"
 msgstr ""
 #
-# File: module/Application/view/application/login/index.phtml, line: 49
+# File: module/Application/view/application/login/index.phtml, line: 56
 # File: module/Application/view/layout/layout.phtml, line: 199
 msgid "Support"
 msgstr ""
 #
-# File: module/Application/view/application/login/index.phtml, line: 51
+# File: module/Application/view/application/login/index.phtml, line: 58
 msgid "Contact Us"
 msgstr ""
 #
-# File: module/Application/view/application/login/index.phtml, line: 75
+# File: module/Application/view/application/login/index.phtml, line: 82
 msgid "Log in"
 msgstr ""
 #
-# File: module/Application/view/application/login/index.phtml, line: 89
+# File: module/Application/view/application/login/index.phtml, line: 96
 msgid "Sign up"
 msgstr ""
 #
