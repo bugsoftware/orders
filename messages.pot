@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-14 16:57-0500\n"
+"POT-Creation-Date: 2021-12-15 05:33-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,26 +17,26 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/Orders.php, line: 111
-# File: module/Application/src/Controller/Orders.php, line: 127
+# File: module/Application/src/Controller/Orders.php, line: 112
+# File: module/Application/src/Controller/Orders.php, line: 128
 # File: module/Application/src/Controller/Orders.php, line: 227
 # File: module/Application/src/Controller/Orders.php, line: 243
-# File: module/Application/src/Controller/Orders.php, line: 357
-# File: module/Application/src/Controller/Orders.php, line: 373
+# File: module/Application/src/Controller/Orders.php, line: 354
+# File: module/Application/src/Controller/Orders.php, line: 370
 # File: module/Application/src/Controller/Categories.php, line: 101
-# File: module/Application/src/Controller/Products.php, line: 101
-# File: module/Application/src/Controller/Products.php, line: 117
+# File: module/Application/src/Controller/Products.php, line: 102
+# File: module/Application/src/Controller/Products.php, line: 118
 msgid "Unknown"
 msgstr ""
 #
-# File: module/Application/src/Controller/Orders.php, line: 523
-# File: module/Application/src/Controller/Profile.php, line: 260
+# File: module/Application/src/Controller/Orders.php, line: 518
+# File: module/Application/src/Controller/Profile.php, line: 261
 # File: module/Application/view/application/orders/index.phtml, line: 116
 msgid "Active"
 msgstr ""
 #
-# File: module/Application/src/Controller/Orders.php, line: 527
-# File: module/Application/src/Controller/Profile.php, line: 264
+# File: module/Application/src/Controller/Orders.php, line: 522
+# File: module/Application/src/Controller/Profile.php, line: 265
 # File: module/Application/view/application/orders/index.phtml, line: 116
 msgid "Inactive"
 msgstr ""
