@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 13:59-0500\n"
+"POT-Creation-Date: 2021-12-19 14:42-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,8 +28,8 @@ msgstr ""
 # File: module/Application/src/Controller/Customers.php, line: 432
 # File: module/Application/src/Controller/IndexController.php, line: 92
 # File: module/Application/src/Controller/IndexController.php, line: 108
-# File: module/Application/src/Controller/Products.php, line: 104
-# File: module/Application/src/Controller/Products.php, line: 120
+# File: module/Application/src/Controller/Products.php, line: 103
+# File: module/Application/src/Controller/Products.php, line: 119
 msgid "Unknown"
 msgstr ""
 #
@@ -71,10 +71,10 @@ msgid "New User"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 12
-# File: module/Application/view/application/profile/index.phtml, line: 99
-# File: module/Application/view/application/products/new.phtml, line: 47
-# File: module/Application/view/application/products/edit.phtml, line: 42
-# File: module/Application/view/application/products/index.phtml, line: 109
+# File: module/Application/view/application/profile/index.phtml, line: 71
+# File: module/Application/view/application/products/new.phtml, line: 105
+# File: module/Application/view/application/products/edit.phtml, line: 110
+# File: module/Application/view/application/products/index.phtml, line: 111
 # File: module/Application/view/application/my-account/index.phtml, line: 40
 # File: module/Application/view/application/my-account/index.phtml, line: 46
 msgid "Company"
@@ -113,7 +113,7 @@ msgstr ""
 # File: module/Application/view/application/users/search.phtml, line: 31
 # File: module/Application/view/application/users/search.phtml, line: 109
 # File: module/Application/view/application/users/index.phtml, line: 104
-# File: module/Application/view/application/profile/index.phtml, line: 155
+# File: module/Application/view/application/profile/index.phtml, line: 127
 # File: module/Application/view/application/index/index.phtml, line: 74
 # File: module/Application/view/application/my-account/index.phtml, line: 83
 # File: module/Application/view/application/customers/new.phtml, line: 24
@@ -126,38 +126,36 @@ msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 35
 # File: module/Application/view/application/profile/index.phtml, line: 24
-# File: module/Application/view/application/products/new.phtml, line: 61
-# File: module/Application/view/application/products/edit.phtml, line: 55
 msgid "User Photo"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 38
-# File: module/Application/view/application/profile/index.phtml, line: 30
-# File: module/Application/view/application/products/new.phtml, line: 64
-# File: module/Application/view/application/products/edit.phtml, line: 59
+# File: module/Application/view/application/profile/index.phtml, line: 28
+# File: module/Application/view/application/products/new.phtml, line: 18
+# File: module/Application/view/application/products/edit.phtml, line: 18
 # File: module/Application/view/application/my-account/index.phtml, line: 138
 msgid "Browse"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 52
-# File: module/Application/view/application/profile/index.phtml, line: 54
+# File: module/Application/view/application/profile/index.phtml, line: 47
 msgid "Profile photo will be changed automatically"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 55
-# File: module/Application/view/application/profile/index.phtml, line: 60
-# File: module/Application/view/application/products/new.phtml, line: 81
-# File: module/Application/view/application/products/edit.phtml, line: 85
+# File: module/Application/view/application/profile/index.phtml, line: 50
+# File: module/Application/view/application/products/new.phtml, line: 40
+# File: module/Application/view/application/products/edit.phtml, line: 40
 msgid "Upload New Photo"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 57
 # File: module/Application/view/application/users/index.phtml, line: 9
-# File: module/Application/view/application/profile/index.phtml, line: 62
+# File: module/Application/view/application/profile/index.phtml, line: 52
 # File: module/Application/view/application/orders/pending.phtml, line: 9
 # File: module/Application/view/application/orders/index.phtml, line: 9
-# File: module/Application/view/application/products/new.phtml, line: 83
-# File: module/Application/view/application/products/edit.phtml, line: 87
+# File: module/Application/view/application/products/new.phtml, line: 42
+# File: module/Application/view/application/products/edit.phtml, line: 42
 # File: module/Application/view/application/products/index.phtml, line: 9
 # File: module/Application/view/application/customers/index.phtml, line: 9
 msgid "Delete"
@@ -181,7 +179,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 79
 # File: module/Application/view/application/users/edit.phtml, line: 27
-# File: module/Application/view/application/profile/index.phtml, line: 121
+# File: module/Application/view/application/profile/index.phtml, line: 93
 # File: module/Application/view/application/my-account/index.phtml, line: 96
 msgid "Country"
 msgstr ""
@@ -193,35 +191,35 @@ msgid "Zone"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 91
-# File: module/Application/view/application/profile/index.phtml, line: 136
+# File: module/Application/view/application/profile/index.phtml, line: 108
 # File: module/Application/view/application/my-account/index.phtml, line: 116
 msgid "City"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 100
 # File: module/Application/view/application/users/edit.phtml, line: 61
-# File: module/Application/view/application/customer-categories/new.phtml, line: 18
+# File: module/Application/view/application/customer-categories/new.phtml, line: 19
 # File: module/Application/view/application/customer-categories/edit.phtml, line: 19
 # File: module/Application/view/application/categories/new.phtml, line: 27
 # File: module/Application/view/application/categories/edit.phtml, line: 29
-# File: module/Application/view/application/orders/new.phtml, line: 45
+# File: module/Application/view/application/orders/new.phtml, line: 44
 # File: module/Application/view/application/orders/editpending.phtml, line: 53
 # File: module/Application/view/application/orders/edit.phtml, line: 53
 # File: module/Application/view/application/locations/new.phtml, line: 18
 # File: module/Application/view/application/locations/edit.phtml, line: 18
-# File: module/Application/view/application/products/new.phtml, line: 93
-# File: module/Application/view/application/products/edit.phtml, line: 97
+# File: module/Application/view/application/products/new.phtml, line: 114
+# File: module/Application/view/application/products/edit.phtml, line: 119
 # File: module/Application/view/application/customers/new.phtml, line: 81
 # File: module/Application/view/application/customers/edit.phtml, line: 95
 msgid "Reset"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 102
-# File: module/Application/view/application/customer-categories/new.phtml, line: 20
+# File: module/Application/view/application/customer-categories/new.phtml, line: 21
 # File: module/Application/view/application/categories/new.phtml, line: 29
-# File: module/Application/view/application/orders/new.phtml, line: 47
+# File: module/Application/view/application/orders/new.phtml, line: 46
 # File: module/Application/view/application/locations/new.phtml, line: 20
-# File: module/Application/view/application/products/new.phtml, line: 95
+# File: module/Application/view/application/products/new.phtml, line: 116
 # File: module/Application/view/application/customers/new.phtml, line: 83
 msgid "Create"
 msgstr ""
@@ -229,13 +227,13 @@ msgstr ""
 # File: module/Application/view/application/users/new.phtml, line: 115
 # File: module/Application/view/application/users/edit.phtml, line: 76
 # File: module/Application/view/application/users/search.phtml, line: 203
-# File: module/Application/view/application/customer-categories/new.phtml, line: 33
+# File: module/Application/view/application/customer-categories/new.phtml, line: 34
 # File: module/Application/view/application/customer-categories/edit.phtml, line: 34
-# File: module/Application/view/application/customer-categories/search.phtml, line: 167
+# File: module/Application/view/application/customer-categories/search.phtml, line: 171
 # File: module/Application/view/application/categories/new.phtml, line: 42
 # File: module/Application/view/application/categories/edit.phtml, line: 44
 # File: module/Application/view/application/categories/search.phtml, line: 167
-# File: module/Application/view/application/profile/index.phtml, line: 246
+# File: module/Application/view/application/profile/index.phtml, line: 218
 # File: module/Application/view/application/orders/new.phtml, line: 58
 # File: module/Application/view/application/orders/editpending.phtml, line: 66
 # File: module/Application/view/application/orders/edit.phtml, line: 66
@@ -243,8 +241,8 @@ msgstr ""
 # File: module/Application/view/application/locations/new.phtml, line: 33
 # File: module/Application/view/application/locations/edit.phtml, line: 33
 # File: module/Application/view/application/locations/search.phtml, line: 167
-# File: module/Application/view/application/products/new.phtml, line: 108
-# File: module/Application/view/application/products/edit.phtml, line: 112
+# File: module/Application/view/application/products/new.phtml, line: 132
+# File: module/Application/view/application/products/edit.phtml, line: 137
 # File: module/Application/view/application/products/search.phtml, line: 164
 # File: module/Application/view/application/my-account/index.phtml, line: 187
 # File: module/Application/view/application/customers/new.phtml, line: 96
@@ -256,13 +254,13 @@ msgstr ""
 # File: module/Application/view/application/users/new.phtml, line: 130
 # File: module/Application/view/application/users/edit.phtml, line: 91
 # File: module/Application/view/application/users/search.phtml, line: 218
-# File: module/Application/view/application/customer-categories/new.phtml, line: 48
+# File: module/Application/view/application/customer-categories/new.phtml, line: 49
 # File: module/Application/view/application/customer-categories/edit.phtml, line: 49
-# File: module/Application/view/application/customer-categories/search.phtml, line: 182
+# File: module/Application/view/application/customer-categories/search.phtml, line: 186
 # File: module/Application/view/application/categories/new.phtml, line: 57
 # File: module/Application/view/application/categories/edit.phtml, line: 59
 # File: module/Application/view/application/categories/search.phtml, line: 182
-# File: module/Application/view/application/profile/index.phtml, line: 261
+# File: module/Application/view/application/profile/index.phtml, line: 233
 # File: module/Application/view/application/orders/new.phtml, line: 73
 # File: module/Application/view/application/orders/editpending.phtml, line: 81
 # File: module/Application/view/application/orders/edit.phtml, line: 81
@@ -270,8 +268,8 @@ msgstr ""
 # File: module/Application/view/application/locations/new.phtml, line: 48
 # File: module/Application/view/application/locations/edit.phtml, line: 48
 # File: module/Application/view/application/locations/search.phtml, line: 182
-# File: module/Application/view/application/products/new.phtml, line: 123
-# File: module/Application/view/application/products/edit.phtml, line: 127
+# File: module/Application/view/application/products/new.phtml, line: 147
+# File: module/Application/view/application/products/edit.phtml, line: 152
 # File: module/Application/view/application/products/search.phtml, line: 179
 # File: module/Application/view/application/my-account/index.phtml, line: 202
 # File: module/Application/view/application/customers/new.phtml, line: 111
@@ -283,13 +281,13 @@ msgstr ""
 # File: module/Application/view/application/users/new.phtml, line: 143
 # File: module/Application/view/application/users/edit.phtml, line: 104
 # File: module/Application/view/application/users/search.phtml, line: 231
-# File: module/Application/view/application/customer-categories/new.phtml, line: 61
+# File: module/Application/view/application/customer-categories/new.phtml, line: 62
 # File: module/Application/view/application/customer-categories/edit.phtml, line: 62
-# File: module/Application/view/application/customer-categories/search.phtml, line: 195
+# File: module/Application/view/application/customer-categories/search.phtml, line: 199
 # File: module/Application/view/application/categories/new.phtml, line: 70
 # File: module/Application/view/application/categories/edit.phtml, line: 72
 # File: module/Application/view/application/categories/search.phtml, line: 195
-# File: module/Application/view/application/profile/index.phtml, line: 274
+# File: module/Application/view/application/profile/index.phtml, line: 246
 # File: module/Application/view/application/orders/new.phtml, line: 86
 # File: module/Application/view/application/orders/editpending.phtml, line: 94
 # File: module/Application/view/application/orders/edit.phtml, line: 94
@@ -297,8 +295,8 @@ msgstr ""
 # File: module/Application/view/application/locations/new.phtml, line: 61
 # File: module/Application/view/application/locations/edit.phtml, line: 61
 # File: module/Application/view/application/locations/search.phtml, line: 195
-# File: module/Application/view/application/products/new.phtml, line: 136
-# File: module/Application/view/application/products/edit.phtml, line: 140
+# File: module/Application/view/application/products/new.phtml, line: 160
+# File: module/Application/view/application/products/edit.phtml, line: 165
 # File: module/Application/view/application/products/search.phtml, line: 192
 # File: module/Application/view/application/my-account/index.phtml, line: 215
 # File: module/Application/view/application/customers/new.phtml, line: 124
@@ -313,14 +311,14 @@ msgstr ""
 # File: module/Application/view/application/users/new.phtml, line: 389
 # File: module/Application/view/application/users/edit.phtml, line: 172
 # File: module/Application/view/application/users/edit.phtml, line: 198
-# File: module/Application/view/application/profile/index.phtml, line: 342
-# File: module/Application/view/application/profile/index.phtml, line: 355
-# File: module/Application/view/application/profile/index.phtml, line: 467
-# File: module/Application/view/application/profile/index.phtml, line: 493
-# File: module/Application/view/application/products/new.phtml, line: 206
-# File: module/Application/view/application/products/new.phtml, line: 219
-# File: module/Application/view/application/products/edit.phtml, line: 208
-# File: module/Application/view/application/products/edit.phtml, line: 221
+# File: module/Application/view/application/profile/index.phtml, line: 314
+# File: module/Application/view/application/profile/index.phtml, line: 327
+# File: module/Application/view/application/profile/index.phtml, line: 439
+# File: module/Application/view/application/profile/index.phtml, line: 465
+# File: module/Application/view/application/products/new.phtml, line: 230
+# File: module/Application/view/application/products/new.phtml, line: 243
+# File: module/Application/view/application/products/edit.phtml, line: 232
+# File: module/Application/view/application/products/edit.phtml, line: 245
 # File: module/Application/view/application/my-account/index.phtml, line: 292
 # File: module/Application/view/application/my-account/index.phtml, line: 318
 msgid "Error"
@@ -328,18 +326,17 @@ msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 214
 # File: module/Application/view/application/users/new.phtml, line: 227
-# File: module/Application/view/application/profile/index.phtml, line: 343
-# File: module/Application/view/application/profile/index.phtml, line: 356
-# File: module/Application/view/application/products/new.phtml, line: 207
-# File: module/Application/view/application/products/new.phtml, line: 220
-# File: module/Application/view/application/products/edit.phtml, line: 209
-# File: module/Application/view/application/products/edit.phtml, line: 222
+# File: module/Application/view/application/profile/index.phtml, line: 315
+# File: module/Application/view/application/profile/index.phtml, line: 328
+# File: module/Application/view/application/products/new.phtml, line: 231
+# File: module/Application/view/application/products/new.phtml, line: 244
+# File: module/Application/view/application/products/edit.phtml, line: 233
+# File: module/Application/view/application/products/edit.phtml, line: 246
 msgid "File Upload Failed"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 280
 # File: module/Application/view/application/users/edit.phtml, line: 118
-# File: module/Application/view/application/orders/new.phtml, line: 100
 # File: module/Application/view/application/orders/editpending.phtml, line: 108
 # File: module/Application/view/application/orders/edit.phtml, line: 108
 # File: module/Application/view/application/my-account/index.phtml, line: 229
@@ -354,7 +351,6 @@ msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 290
 # File: module/Application/view/application/users/edit.phtml, line: 128
-# File: module/Application/view/application/orders/new.phtml, line: 110
 # File: module/Application/view/application/orders/editpending.phtml, line: 118
 # File: module/Application/view/application/orders/edit.phtml, line: 118
 # File: module/Application/view/application/my-account/index.phtml, line: 239
@@ -369,7 +365,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 300
 # File: module/Application/view/application/users/edit.phtml, line: 138
-# File: module/Application/view/application/profile/index.phtml, line: 414
+# File: module/Application/view/application/profile/index.phtml, line: 386
 # File: module/Application/view/application/my-account/index.phtml, line: 249
 # File: module/Application/view/application/customers/new.phtml, line: 158
 # File: module/Application/view/application/customers/edit.phtml, line: 172
@@ -397,7 +393,7 @@ msgid "In order to create a user, you need to input the Password of the user."
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 330
-# File: module/Application/view/application/profile/index.phtml, line: 434
+# File: module/Application/view/application/profile/index.phtml, line: 406
 # File: module/Application/view/application/my-account/index.phtml, line: 259
 msgid "Phone is required"
 msgstr ""
@@ -408,14 +404,14 @@ msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 354
 # File: module/Application/view/application/users/edit.phtml, line: 163
-# File: module/Application/view/application/profile/index.phtml, line: 458
+# File: module/Application/view/application/profile/index.phtml, line: 430
 # File: module/Application/view/application/my-account/index.phtml, line: 283
 msgid "Select zone"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 380
 # File: module/Application/view/application/users/edit.phtml, line: 189
-# File: module/Application/view/application/profile/index.phtml, line: 484
+# File: module/Application/view/application/profile/index.phtml, line: 456
 # File: module/Application/view/application/my-account/index.phtml, line: 309
 msgid "Select city"
 msgstr ""
@@ -436,13 +432,12 @@ msgstr ""
 # File: module/Application/view/application/orders/editpending.phtml, line: 55
 # File: module/Application/view/application/orders/edit.phtml, line: 55
 # File: module/Application/view/application/locations/edit.phtml, line: 20
-# File: module/Application/view/application/products/edit.phtml, line: 99
+# File: module/Application/view/application/products/edit.phtml, line: 121
 # File: module/Application/view/application/customers/edit.phtml, line: 97
 msgid "Update"
 msgstr ""
 #
 # File: module/Application/view/application/users/edit.phtml, line: 119
-# File: module/Application/view/application/orders/new.phtml, line: 101
 # File: module/Application/view/application/orders/editpending.phtml, line: 109
 # File: module/Application/view/application/orders/edit.phtml, line: 109
 # File: module/Application/view/application/customers/new.phtml, line: 139
@@ -451,7 +446,6 @@ msgid "In order to create a customer, you need to input the first name of the cu
 msgstr ""
 #
 # File: module/Application/view/application/users/edit.phtml, line: 129
-# File: module/Application/view/application/orders/new.phtml, line: 111
 # File: module/Application/view/application/orders/editpending.phtml, line: 119
 # File: module/Application/view/application/orders/edit.phtml, line: 119
 # File: module/Application/view/application/customers/new.phtml, line: 149
@@ -460,7 +454,7 @@ msgid "In order to create a customer, you need to input the last name of the cus
 msgstr ""
 #
 # File: module/Application/view/application/users/edit.phtml, line: 139
-# File: module/Application/view/application/profile/index.phtml, line: 415
+# File: module/Application/view/application/profile/index.phtml, line: 387
 # File: module/Application/view/application/customers/new.phtml, line: 159
 # File: module/Application/view/application/customers/edit.phtml, line: 173
 msgid "In order to create a customer, you need to input the email of the customer."
@@ -517,7 +511,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/search.phtml, line: 145
 # File: module/Application/view/application/users/index.phtml, line: 138
-# File: module/Application/view/application/customer-categories/search.phtml, line: 110
+# File: module/Application/view/application/customer-categories/search.phtml, line: 114
 # File: module/Application/view/application/customer-categories/index.phtml, line: 134
 # File: module/Application/view/application/categories/search.phtml, line: 110
 # File: module/Application/view/application/categories/index.phtml, line: 136
@@ -527,7 +521,7 @@ msgstr ""
 # File: module/Application/view/application/locations/search.phtml, line: 110
 # File: module/Application/view/application/locations/index.phtml, line: 134
 # File: module/Application/view/application/products/search.phtml, line: 108
-# File: module/Application/view/application/products/index.phtml, line: 143
+# File: module/Application/view/application/products/index.phtml, line: 145
 # File: module/Application/view/application/customers/search.phtml, line: 155
 # File: module/Application/view/application/customers/index.phtml, line: 155
 msgid "Rows number"
@@ -541,10 +535,10 @@ msgstr ""
 # File: module/Application/view/application/users/index.phtml, line: 140
 # File: module/Application/view/application/users/index.phtml, line: 141
 # File: module/Application/view/application/users/index.phtml, line: 142
-# File: module/Application/view/application/customer-categories/search.phtml, line: 111
-# File: module/Application/view/application/customer-categories/search.phtml, line: 112
-# File: module/Application/view/application/customer-categories/search.phtml, line: 113
-# File: module/Application/view/application/customer-categories/search.phtml, line: 114
+# File: module/Application/view/application/customer-categories/search.phtml, line: 115
+# File: module/Application/view/application/customer-categories/search.phtml, line: 116
+# File: module/Application/view/application/customer-categories/search.phtml, line: 117
+# File: module/Application/view/application/customer-categories/search.phtml, line: 118
 # File: module/Application/view/application/customer-categories/index.phtml, line: 135
 # File: module/Application/view/application/customer-categories/index.phtml, line: 136
 # File: module/Application/view/application/customer-categories/index.phtml, line: 137
@@ -581,10 +575,10 @@ msgstr ""
 # File: module/Application/view/application/products/search.phtml, line: 110
 # File: module/Application/view/application/products/search.phtml, line: 111
 # File: module/Application/view/application/products/search.phtml, line: 112
-# File: module/Application/view/application/products/index.phtml, line: 144
-# File: module/Application/view/application/products/index.phtml, line: 145
 # File: module/Application/view/application/products/index.phtml, line: 146
 # File: module/Application/view/application/products/index.phtml, line: 147
+# File: module/Application/view/application/products/index.phtml, line: 148
+# File: module/Application/view/application/products/index.phtml, line: 149
 # File: module/Application/view/application/customers/search.phtml, line: 156
 # File: module/Application/view/application/customers/search.phtml, line: 157
 # File: module/Application/view/application/customers/search.phtml, line: 158
@@ -598,7 +592,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/search.phtml, line: 157
 # File: module/Application/view/application/users/index.phtml, line: 151
-# File: module/Application/view/application/customer-categories/search.phtml, line: 123
+# File: module/Application/view/application/customer-categories/search.phtml, line: 127
 # File: module/Application/view/application/customer-categories/index.phtml, line: 147
 # File: module/Application/view/application/categories/search.phtml, line: 123
 # File: module/Application/view/application/categories/index.phtml, line: 149
@@ -609,7 +603,7 @@ msgstr ""
 # File: module/Application/view/application/locations/search.phtml, line: 123
 # File: module/Application/view/application/locations/index.phtml, line: 147
 # File: module/Application/view/application/products/search.phtml, line: 121
-# File: module/Application/view/application/products/index.phtml, line: 156
+# File: module/Application/view/application/products/index.phtml, line: 158
 # File: module/Application/view/application/customers/search.phtml, line: 167
 # File: module/Application/view/application/customers/index.phtml, line: 168
 msgid "First"
@@ -617,7 +611,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/search.phtml, line: 162
 # File: module/Application/view/application/users/index.phtml, line: 156
-# File: module/Application/view/application/customer-categories/search.phtml, line: 128
+# File: module/Application/view/application/customer-categories/search.phtml, line: 132
 # File: module/Application/view/application/customer-categories/index.phtml, line: 152
 # File: module/Application/view/application/categories/search.phtml, line: 128
 # File: module/Application/view/application/categories/index.phtml, line: 154
@@ -628,7 +622,7 @@ msgstr ""
 # File: module/Application/view/application/locations/search.phtml, line: 128
 # File: module/Application/view/application/locations/index.phtml, line: 152
 # File: module/Application/view/application/products/search.phtml, line: 126
-# File: module/Application/view/application/products/index.phtml, line: 161
+# File: module/Application/view/application/products/index.phtml, line: 163
 # File: module/Application/view/application/customers/search.phtml, line: 172
 # File: module/Application/view/application/customers/index.phtml, line: 173
 msgid "Previous"
@@ -636,7 +630,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/search.phtml, line: 177
 # File: module/Application/view/application/users/index.phtml, line: 171
-# File: module/Application/view/application/customer-categories/search.phtml, line: 143
+# File: module/Application/view/application/customer-categories/search.phtml, line: 147
 # File: module/Application/view/application/customer-categories/index.phtml, line: 167
 # File: module/Application/view/application/categories/search.phtml, line: 143
 # File: module/Application/view/application/categories/index.phtml, line: 169
@@ -647,7 +641,7 @@ msgstr ""
 # File: module/Application/view/application/locations/search.phtml, line: 143
 # File: module/Application/view/application/locations/index.phtml, line: 167
 # File: module/Application/view/application/products/search.phtml, line: 141
-# File: module/Application/view/application/products/index.phtml, line: 176
+# File: module/Application/view/application/products/index.phtml, line: 178
 # File: module/Application/view/application/customers/search.phtml, line: 187
 # File: module/Application/view/application/customers/index.phtml, line: 188
 msgid "Next"
@@ -655,7 +649,7 @@ msgstr ""
 #
 # File: module/Application/view/application/users/search.phtml, line: 182
 # File: module/Application/view/application/users/index.phtml, line: 176
-# File: module/Application/view/application/customer-categories/search.phtml, line: 148
+# File: module/Application/view/application/customer-categories/search.phtml, line: 152
 # File: module/Application/view/application/customer-categories/index.phtml, line: 172
 # File: module/Application/view/application/categories/search.phtml, line: 148
 # File: module/Application/view/application/categories/index.phtml, line: 174
@@ -666,7 +660,7 @@ msgstr ""
 # File: module/Application/view/application/locations/search.phtml, line: 148
 # File: module/Application/view/application/locations/index.phtml, line: 172
 # File: module/Application/view/application/products/search.phtml, line: 146
-# File: module/Application/view/application/products/index.phtml, line: 181
+# File: module/Application/view/application/products/index.phtml, line: 183
 # File: module/Application/view/application/customers/search.phtml, line: 192
 # File: module/Application/view/application/customers/index.phtml, line: 193
 msgid "Last"
@@ -828,8 +822,8 @@ msgstr ""
 msgid "New Customer Category"
 msgstr ""
 #
-# File: module/Application/view/application/customer-categories/new.phtml, line: 12
-# File: module/Application/view/application/customer-categories/edit.phtml, line: 13
+# File: module/Application/view/application/customer-categories/new.phtml, line: 13
+# File: module/Application/view/application/customer-categories/edit.phtml, line: 14
 # File: module/Application/view/application/customer-categories/index.phtml, line: 105
 # File: module/Application/view/application/categories/new.phtml, line: 12
 # File: module/Application/view/application/categories/edit.phtml, line: 14
@@ -837,19 +831,19 @@ msgstr ""
 # File: module/Application/view/application/locations/new.phtml, line: 12
 # File: module/Application/view/application/locations/edit.phtml, line: 12
 # File: module/Application/view/application/locations/index.phtml, line: 105
-# File: module/Application/view/application/products/new.phtml, line: 12
-# File: module/Application/view/application/products/edit.phtml, line: 13
-# File: module/Application/view/application/products/index.phtml, line: 101
+# File: module/Application/view/application/products/new.phtml, line: 57
+# File: module/Application/view/application/products/edit.phtml, line: 59
+# File: module/Application/view/application/products/index.phtml, line: 103
 msgid "Name"
 msgstr ""
 #
-# File: module/Application/view/application/customer-categories/new.phtml, line: 74
-# File: module/Application/view/application/customer-categories/search.phtml, line: 208
+# File: module/Application/view/application/customer-categories/new.phtml, line: 75
+# File: module/Application/view/application/customer-categories/search.phtml, line: 212
 msgid "Customer Category Name is required"
 msgstr ""
 #
-# File: module/Application/view/application/customer-categories/new.phtml, line: 75
-# File: module/Application/view/application/customer-categories/search.phtml, line: 209
+# File: module/Application/view/application/customer-categories/new.phtml, line: 76
+# File: module/Application/view/application/customer-categories/search.phtml, line: 213
 msgid "In order to create a customer category, you need to input the customer category name."
 msgstr ""
 #
@@ -870,8 +864,8 @@ msgstr ""
 msgid "Search Customer Category"
 msgstr ""
 #
-# File: module/Application/view/application/customer-categories/search.phtml, line: 13
-# File: module/Application/view/application/customer-categories/search.phtml, line: 78
+# File: module/Application/view/application/customer-categories/search.phtml, line: 14
+# File: module/Application/view/application/customer-categories/search.phtml, line: 81
 msgid "Customer Category"
 msgstr ""
 #
@@ -906,9 +900,9 @@ msgstr ""
 #
 # File: module/Application/view/application/categories/edit.phtml, line: 20
 # File: module/Application/view/application/categories/index.phtml, line: 106
-# File: module/Application/view/application/products/new.phtml, line: 38
-# File: module/Application/view/application/products/edit.phtml, line: 34
-# File: module/Application/view/application/products/index.phtml, line: 107
+# File: module/Application/view/application/products/new.phtml, line: 63
+# File: module/Application/view/application/products/edit.phtml, line: 64
+# File: module/Application/view/application/products/index.phtml, line: 109
 msgid "Category"
 msgstr ""
 #
@@ -970,12 +964,12 @@ msgstr ""
 msgid "Edit Company Logo"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 82
+# File: module/Application/view/application/profile/index.phtml, line: 61
 msgid "Edit Company"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 107
-# File: module/Application/view/application/profile/index.phtml, line: 115
+# File: module/Application/view/application/profile/index.phtml, line: 79
+# File: module/Application/view/application/profile/index.phtml, line: 87
 # File: module/Application/view/application/index/index.phtml, line: 76
 # File: module/Application/view/application/customers/new.phtml, line: 48
 # File: module/Application/view/application/customers/edit.phtml, line: 60
@@ -983,69 +977,69 @@ msgstr ""
 msgid "Address"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 129
+# File: module/Application/view/application/profile/index.phtml, line: 101
 msgid "State"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 147
+# File: module/Application/view/application/profile/index.phtml, line: 119
 # File: module/Application/view/application/customers/new.phtml, line: 56
 # File: module/Application/view/application/customers/edit.phtml, line: 70
 msgid "Zip Code"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 162
+# File: module/Application/view/application/profile/index.phtml, line: 134
 # File: module/Application/view/application/my-account/index.phtml, line: 90
 msgid "Fax"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 170
+# File: module/Application/view/application/profile/index.phtml, line: 142
 # File: module/Application/view/application/my-account/index.phtml, line: 74
 msgid "Email address"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 178
+# File: module/Application/view/application/profile/index.phtml, line: 150
 msgid "Currency"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 185
+# File: module/Application/view/application/profile/index.phtml, line: 157
 # File: module/Application/view/application/orders/editpending.phtml, line: 28
 # File: module/Application/view/application/orders/edit.phtml, line: 28
 msgid "Select status"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 200
+# File: module/Application/view/application/profile/index.phtml, line: 172
 msgid "About Us"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 209
+# File: module/Application/view/application/profile/index.phtml, line: 181
 msgid "Terms & Conditions"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 216
+# File: module/Application/view/application/profile/index.phtml, line: 188
 msgid "Update Company"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 404
+# File: module/Application/view/application/profile/index.phtml, line: 376
 msgid "Company is required"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 405
+# File: module/Application/view/application/profile/index.phtml, line: 377
 msgid "In order to edit the company, you need to input the company name."
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 424
+# File: module/Application/view/application/profile/index.phtml, line: 396
 # File: module/Application/view/application/customers/new.phtml, line: 178
 # File: module/Application/view/application/customers/edit.phtml, line: 192
 msgid "Address is required"
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 425
+# File: module/Application/view/application/profile/index.phtml, line: 397
 # File: module/Application/view/application/customers/new.phtml, line: 179
 # File: module/Application/view/application/customers/edit.phtml, line: 193
 msgid "In order to create a customer, you need to input the Address of the customer."
 msgstr ""
 #
-# File: module/Application/view/application/profile/index.phtml, line: 435
+# File: module/Application/view/application/profile/index.phtml, line: 407
 msgid "In order to create a customer, you need to input the phone of the customer."
 msgstr ""
 #
@@ -1117,6 +1111,31 @@ msgstr ""
 msgid "Date/Time Pickup"
 msgstr ""
 #
+# File: module/Application/view/application/orders/new.phtml, line: 100
+msgid "Product is required"
+msgstr ""
+#
+# File: module/Application/view/application/orders/new.phtml, line: 101
+msgid "In order to create an order, you need to select the product."
+msgstr ""
+#
+# File: module/Application/view/application/orders/new.phtml, line: 111
+# File: module/Application/view/application/orders/search.phtml, line: 214
+msgid "Customer is required"
+msgstr ""
+#
+# File: module/Application/view/application/orders/new.phtml, line: 112
+msgid "In order to create an order, you need to select the customer."
+msgstr ""
+#
+# File: module/Application/view/application/orders/new.phtml, line: 123
+msgid "Pick up is required"
+msgstr ""
+#
+# File: module/Application/view/application/orders/new.phtml, line: 124
+msgid "In order to create an order, you need to input pickup date."
+msgstr ""
+#
 # File: module/Application/view/application/orders/editpending.phtml, line: 4
 msgid "Edit Pending Order"
 msgstr ""
@@ -1138,10 +1157,6 @@ msgstr ""
 # File: module/Application/view/application/orders/search.phtml, line: 4
 # File: module/Application/view/layout/layout.phtml, line: 90
 msgid "Search Order"
-msgstr ""
-#
-# File: module/Application/view/application/orders/search.phtml, line: 214
-msgid "Customer is required"
 msgstr ""
 #
 # File: module/Application/view/application/orders/search.phtml, line: 215
@@ -1195,48 +1210,86 @@ msgstr ""
 msgid "In order to search a location, you need to input that."
 msgstr ""
 #
-# File: module/Application/view/application/products/new.phtml, line: 4
-msgid "New product"
+# File: module/Application/view/application/products/new.phtml, line: 9
+msgid "Product Image"
 msgstr ""
 #
-# File: module/Application/view/application/products/new.phtml, line: 18
-# File: module/Application/view/application/products/edit.phtml, line: 17
-msgid "Price per Item"
+# File: module/Application/view/application/products/new.phtml, line: 14
+# File: module/Application/view/application/products/edit.phtml, line: 14
+msgid "Product Photo"
 msgstr ""
 #
-# File: module/Application/view/application/products/new.phtml, line: 21
-# File: module/Application/view/application/products/edit.phtml, line: 18
-msgid "Price per Weight"
-msgstr ""
-#
-# File: module/Application/view/application/products/new.phtml, line: 26
-# File: module/Application/view/application/products/edit.phtml, line: 23
-# File: module/Application/view/application/products/index.phtml, line: 103
-msgid "Price"
-msgstr ""
-#
-# File: module/Application/view/application/products/new.phtml, line: 32
-# File: module/Application/view/application/products/edit.phtml, line: 29
-# File: module/Application/view/application/products/index.phtml, line: 105
-msgid "Weight"
-msgstr ""
-#
-# File: module/Application/view/application/products/new.phtml, line: 78
-# File: module/Application/view/application/products/edit.phtml, line: 79
+# File: module/Application/view/application/products/new.phtml, line: 37
+# File: module/Application/view/application/products/edit.phtml, line: 37
 msgid "Product photo will be changed automatically"
 msgstr ""
 #
-# File: module/Application/view/application/products/new.phtml, line: 270
-# File: module/Application/view/application/products/edit.phtml, line: 272
+# File: module/Application/view/application/products/new.phtml, line: 49
+msgid "New product"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 72
+# File: module/Application/view/application/products/edit.phtml, line: 73
+# File: module/Application/view/application/products/index.phtml, line: 105
+msgid "Price"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 78
+# File: module/Application/view/application/products/edit.phtml, line: 80
+# File: module/Application/view/application/products/index.phtml, line: 107
+msgid "Weight"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 85
+# File: module/Application/view/application/products/edit.phtml, line: 87
+msgid "Weight Measure"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 87
+# File: module/Application/view/application/products/edit.phtml, line: 89
+msgid "Unit"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 88
+# File: module/Application/view/application/products/edit.phtml, line: 91
+msgid "Kilogram"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 89
+# File: module/Application/view/application/products/edit.phtml, line: 93
+msgid "Gram"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 90
+# File: module/Application/view/application/products/edit.phtml, line: 95
+msgid "Pounds"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 97
+# File: module/Application/view/application/products/edit.phtml, line: 102
+msgid "Price per Item"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 100
+# File: module/Application/view/application/products/edit.phtml, line: 105
+msgid "Price per Weight"
+msgstr ""
+#
+# File: module/Application/view/application/products/new.phtml, line: 294
+# File: module/Application/view/application/products/edit.phtml, line: 296
 msgid "Name is required"
 msgstr ""
 #
-# File: module/Application/view/application/products/new.phtml, line: 271
-# File: module/Application/view/application/products/edit.phtml, line: 273
+# File: module/Application/view/application/products/new.phtml, line: 295
+# File: module/Application/view/application/products/edit.phtml, line: 297
 msgid "In order to create a product, you need to input the name of the product."
 msgstr ""
 #
-# File: module/Application/view/application/products/edit.phtml, line: 4
+# File: module/Application/view/application/products/edit.phtml, line: 9
+msgid "Edit Image"
+msgstr ""
+#
+# File: module/Application/view/application/products/edit.phtml, line: 49
 msgid "Edit product"
 msgstr ""
 #
