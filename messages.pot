@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-21 05:13-0500\n"
+"POT-Creation-Date: 2021-12-21 06:06-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,27 +18,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 #
 # File: module/Application/src/Controller/Orders.php, line: 128
-# File: module/Application/src/Controller/Orders.php, line: 624
-# File: module/Application/src/Controller/Orders.php, line: 747
+# File: module/Application/src/Controller/Orders.php, line: 596
+# File: module/Application/src/Controller/Orders.php, line: 719
 # File: module/Application/src/Controller/Categories.php, line: 249
 # File: module/Application/src/Controller/Customers.php, line: 458
-# File: module/Application/src/Controller/PrintOrder.php, line: 129
-# File: module/Application/src/Controller/IndexController.php, line: 119
+# File: module/Application/src/Controller/PrintOrder.php, line: 141
+# File: module/Application/src/Controller/IndexController.php, line: 139
 msgid "Unknown"
 msgstr ""
 #
-# File: module/Application/src/Controller/Orders.php, line: 607
-# File: module/Application/src/Controller/Customers.php, line: 442
-# File: module/Application/src/Controller/Products.php, line: 128
-msgid "None"
-msgstr ""
-#
-# File: module/Application/src/Controller/Orders.php, line: 939
+# File: module/Application/src/Controller/Orders.php, line: 911
 # File: module/Application/src/Controller/Profile.php, line: 261
 msgid "Active"
 msgstr ""
 #
-# File: module/Application/src/Controller/Orders.php, line: 943
+# File: module/Application/src/Controller/Orders.php, line: 915
 # File: module/Application/src/Controller/Profile.php, line: 265
 msgid "Inactive"
 msgstr ""
@@ -61,6 +55,11 @@ msgstr ""
 #
 # File: module/Application/src/Controller/Login.php, line: 107
 msgid "You appear to have entered an invalid user name or password"
+msgstr ""
+#
+# File: module/Application/src/Controller/Customers.php, line: 442
+# File: module/Application/src/Controller/Products.php, line: 128
+msgid "None"
 msgstr ""
 #
 # File: module/Application/view/application/users/new.phtml, line: 4
@@ -109,7 +108,7 @@ msgstr ""
 # File: module/Application/view/application/users/search.phtml, line: 109
 # File: module/Application/view/application/users/index.phtml, line: 104
 # File: module/Application/view/application/profile/index.phtml, line: 127
-# File: module/Application/view/application/index/index.phtml, line: 80
+# File: module/Application/view/application/index/index.phtml, line: 95
 # File: module/Application/view/application/orders/pending.phtml, line: 112
 # File: module/Application/view/application/orders/index.phtml, line: 112
 # File: module/Application/view/application/my-account/index.phtml, line: 83
@@ -232,7 +231,7 @@ msgstr ""
 # File: module/Application/view/application/orders/new.phtml, line: 154
 # File: module/Application/view/application/orders/editpending.phtml, line: 66
 # File: module/Application/view/application/orders/edit.phtml, line: 66
-# File: module/Application/view/application/orders/search.phtml, line: 173
+# File: module/Application/view/application/orders/search.phtml, line: 169
 # File: module/Application/view/application/locations/new.phtml, line: 33
 # File: module/Application/view/application/locations/edit.phtml, line: 33
 # File: module/Application/view/application/locations/search.phtml, line: 167
@@ -259,7 +258,7 @@ msgstr ""
 # File: module/Application/view/application/orders/new.phtml, line: 169
 # File: module/Application/view/application/orders/editpending.phtml, line: 81
 # File: module/Application/view/application/orders/edit.phtml, line: 81
-# File: module/Application/view/application/orders/search.phtml, line: 188
+# File: module/Application/view/application/orders/search.phtml, line: 184
 # File: module/Application/view/application/locations/new.phtml, line: 48
 # File: module/Application/view/application/locations/edit.phtml, line: 48
 # File: module/Application/view/application/locations/search.phtml, line: 182
@@ -286,7 +285,7 @@ msgstr ""
 # File: module/Application/view/application/orders/new.phtml, line: 182
 # File: module/Application/view/application/orders/editpending.phtml, line: 94
 # File: module/Application/view/application/orders/edit.phtml, line: 94
-# File: module/Application/view/application/orders/search.phtml, line: 201
+# File: module/Application/view/application/orders/search.phtml, line: 197
 # File: module/Application/view/application/locations/new.phtml, line: 61
 # File: module/Application/view/application/locations/edit.phtml, line: 61
 # File: module/Application/view/application/locations/search.phtml, line: 195
@@ -482,7 +481,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 57
 # File: module/Application/view/application/login/index.phtml, line: 58
 # File: module/Application/view/application/orders/pending.phtml, line: 48
-# File: module/Application/view/application/orders/search.phtml, line: 23
+# File: module/Application/view/application/orders/search.phtml, line: 20
 # File: module/Application/view/application/orders/index.phtml, line: 48
 # File: module/Application/view/application/locations/search.phtml, line: 20
 # File: module/Application/view/application/locations/index.phtml, line: 47
@@ -506,9 +505,9 @@ msgstr ""
 # File: module/Application/view/application/customer-categories/index.phtml, line: 134
 # File: module/Application/view/application/categories/search.phtml, line: 110
 # File: module/Application/view/application/categories/index.phtml, line: 136
-# File: module/Application/view/application/index/index.phtml, line: 114
+# File: module/Application/view/application/index/index.phtml, line: 129
 # File: module/Application/view/application/orders/pending.phtml, line: 146
-# File: module/Application/view/application/orders/search.phtml, line: 117
+# File: module/Application/view/application/orders/search.phtml, line: 113
 # File: module/Application/view/application/orders/index.phtml, line: 146
 # File: module/Application/view/application/locations/search.phtml, line: 110
 # File: module/Application/view/application/locations/index.phtml, line: 134
@@ -552,13 +551,13 @@ msgstr ""
 # File: module/Application/view/application/categories/index.phtml, line: 146
 # File: module/Application/view/application/categories/index.phtml, line: 148
 # File: module/Application/view/application/categories/index.phtml, line: 150
-# File: module/Application/view/application/index/index.phtml, line: 116
-# File: module/Application/view/application/index/index.phtml, line: 118
-# File: module/Application/view/application/index/index.phtml, line: 120
-# File: module/Application/view/application/index/index.phtml, line: 122
-# File: module/Application/view/application/index/index.phtml, line: 124
-# File: module/Application/view/application/index/index.phtml, line: 126
-# File: module/Application/view/application/index/index.phtml, line: 128
+# File: module/Application/view/application/index/index.phtml, line: 131
+# File: module/Application/view/application/index/index.phtml, line: 133
+# File: module/Application/view/application/index/index.phtml, line: 135
+# File: module/Application/view/application/index/index.phtml, line: 137
+# File: module/Application/view/application/index/index.phtml, line: 139
+# File: module/Application/view/application/index/index.phtml, line: 141
+# File: module/Application/view/application/index/index.phtml, line: 143
 # File: module/Application/view/application/orders/pending.phtml, line: 148
 # File: module/Application/view/application/orders/pending.phtml, line: 150
 # File: module/Application/view/application/orders/pending.phtml, line: 152
@@ -566,10 +565,10 @@ msgstr ""
 # File: module/Application/view/application/orders/pending.phtml, line: 156
 # File: module/Application/view/application/orders/pending.phtml, line: 158
 # File: module/Application/view/application/orders/pending.phtml, line: 160
-# File: module/Application/view/application/orders/search.phtml, line: 118
-# File: module/Application/view/application/orders/search.phtml, line: 119
-# File: module/Application/view/application/orders/search.phtml, line: 120
-# File: module/Application/view/application/orders/search.phtml, line: 121
+# File: module/Application/view/application/orders/search.phtml, line: 114
+# File: module/Application/view/application/orders/search.phtml, line: 115
+# File: module/Application/view/application/orders/search.phtml, line: 116
+# File: module/Application/view/application/orders/search.phtml, line: 117
 # File: module/Application/view/application/orders/index.phtml, line: 148
 # File: module/Application/view/application/orders/index.phtml, line: 150
 # File: module/Application/view/application/orders/index.phtml, line: 152
@@ -616,9 +615,9 @@ msgstr ""
 # File: module/Application/view/application/customer-categories/index.phtml, line: 155
 # File: module/Application/view/application/categories/search.phtml, line: 123
 # File: module/Application/view/application/categories/index.phtml, line: 157
-# File: module/Application/view/application/index/index.phtml, line: 135
+# File: module/Application/view/application/index/index.phtml, line: 150
 # File: module/Application/view/application/orders/pending.phtml, line: 167
-# File: module/Application/view/application/orders/search.phtml, line: 130
+# File: module/Application/view/application/orders/search.phtml, line: 126
 # File: module/Application/view/application/orders/index.phtml, line: 167
 # File: module/Application/view/application/locations/search.phtml, line: 123
 # File: module/Application/view/application/locations/index.phtml, line: 147
@@ -638,11 +637,11 @@ msgstr ""
 # File: module/Application/view/application/categories/search.phtml, line: 128
 # File: module/Application/view/application/categories/index.phtml, line: 161
 # File: module/Application/view/application/categories/index.phtml, line: 163
-# File: module/Application/view/application/index/index.phtml, line: 139
-# File: module/Application/view/application/index/index.phtml, line: 141
+# File: module/Application/view/application/index/index.phtml, line: 154
+# File: module/Application/view/application/index/index.phtml, line: 156
 # File: module/Application/view/application/orders/pending.phtml, line: 171
 # File: module/Application/view/application/orders/pending.phtml, line: 173
-# File: module/Application/view/application/orders/search.phtml, line: 135
+# File: module/Application/view/application/orders/search.phtml, line: 131
 # File: module/Application/view/application/orders/index.phtml, line: 171
 # File: module/Application/view/application/orders/index.phtml, line: 173
 # File: module/Application/view/application/locations/search.phtml, line: 128
@@ -665,11 +664,11 @@ msgstr ""
 # File: module/Application/view/application/categories/search.phtml, line: 143
 # File: module/Application/view/application/categories/index.phtml, line: 174
 # File: module/Application/view/application/categories/index.phtml, line: 176
-# File: module/Application/view/application/index/index.phtml, line: 152
-# File: module/Application/view/application/index/index.phtml, line: 154
+# File: module/Application/view/application/index/index.phtml, line: 167
+# File: module/Application/view/application/index/index.phtml, line: 169
 # File: module/Application/view/application/orders/pending.phtml, line: 184
 # File: module/Application/view/application/orders/pending.phtml, line: 186
-# File: module/Application/view/application/orders/search.phtml, line: 150
+# File: module/Application/view/application/orders/search.phtml, line: 146
 # File: module/Application/view/application/orders/index.phtml, line: 184
 # File: module/Application/view/application/orders/index.phtml, line: 186
 # File: module/Application/view/application/locations/search.phtml, line: 143
@@ -689,9 +688,9 @@ msgstr ""
 # File: module/Application/view/application/customer-categories/index.phtml, line: 179
 # File: module/Application/view/application/categories/search.phtml, line: 148
 # File: module/Application/view/application/categories/index.phtml, line: 181
-# File: module/Application/view/application/index/index.phtml, line: 159
+# File: module/Application/view/application/index/index.phtml, line: 174
 # File: module/Application/view/application/orders/pending.phtml, line: 191
-# File: module/Application/view/application/orders/search.phtml, line: 155
+# File: module/Application/view/application/orders/search.phtml, line: 151
 # File: module/Application/view/application/orders/index.phtml, line: 191
 # File: module/Application/view/application/locations/search.phtml, line: 148
 # File: module/Application/view/application/locations/index.phtml, line: 172
@@ -970,8 +969,8 @@ msgstr ""
 # File: module/Application/view/application/print-order/index.phtml, line: 8
 # File: module/Application/view/application/print-order/index.phtml, line: 35
 # File: module/Application/view/application/login/index.phtml, line: 37
-# File: module/Application/view/application/index/index.phtml, line: 9
-# File: module/Application/view/application/orders/search.phtml, line: 49
+# File: module/Application/view/application/index/index.phtml, line: 10
+# File: module/Application/view/application/orders/search.phtml, line: 46
 # File: module/Application/view/application/orders/index.phtml, line: 75
 # File: module/Application/view/layout/layout.phtml, line: 79
 # File: module/Application/view/layout/layout.phtml, line: 196
@@ -979,7 +978,7 @@ msgid "Orders"
 msgstr ""
 #
 # File: module/Application/view/application/print-order/index.phtml, line: 38
-# File: module/Application/view/application/index/index.phtml, line: 28
+# File: module/Application/view/application/index/index.phtml, line: 42
 msgid "Print"
 msgstr ""
 #
@@ -996,13 +995,13 @@ msgid "Date/Time"
 msgstr ""
 #
 # File: module/Application/view/application/print-order/index.phtml, line: 87
-# File: module/Application/view/application/index/index.phtml, line: 74
+# File: module/Application/view/application/index/index.phtml, line: 89
 # File: module/Application/view/application/orders/new.phtml, line: 13
 # File: module/Application/view/application/orders/editpending.phtml, line: 20
 # File: module/Application/view/application/orders/pending.phtml, line: 106
 # File: module/Application/view/application/orders/edit.phtml, line: 20
-# File: module/Application/view/application/orders/search.phtml, line: 16
-# File: module/Application/view/application/orders/search.phtml, line: 84
+# File: module/Application/view/application/orders/search.phtml, line: 13
+# File: module/Application/view/application/orders/search.phtml, line: 80
 # File: module/Application/view/application/orders/index.phtml, line: 106
 msgid "Customer"
 msgstr ""
@@ -1010,7 +1009,7 @@ msgstr ""
 # File: module/Application/view/application/print-order/index.phtml, line: 88
 # File: module/Application/view/application/profile/index.phtml, line: 79
 # File: module/Application/view/application/profile/index.phtml, line: 87
-# File: module/Application/view/application/index/index.phtml, line: 82
+# File: module/Application/view/application/index/index.phtml, line: 97
 # File: module/Application/view/application/orders/pending.phtml, line: 114
 # File: module/Application/view/application/orders/index.phtml, line: 114
 # File: module/Application/view/application/customers/new.phtml, line: 48
@@ -1114,32 +1113,40 @@ msgstr ""
 msgid "In order to create a customer, you need to input the phone of the customer."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 16
+# File: module/Application/view/application/index/index.phtml, line: 17
 msgid "Choose Filter"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 17
+# File: module/Application/view/application/index/index.phtml, line: 18
+# File: module/Application/view/application/index/index.phtml, line: 210
 # File: module/Application/view/application/orders/new.phtml, line: 258
 msgid "Today"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 18
+# File: module/Application/view/application/index/index.phtml, line: 19
 msgid "Tomorrow"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 19
+# File: module/Application/view/application/index/index.phtml, line: 21
 msgid "Next week"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 20
+# File: module/Application/view/application/index/index.phtml, line: 22
 msgid "Next 2 weeks"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 47
+# File: module/Application/view/application/index/index.phtml, line: 30
+# File: module/Application/view/application/index/index.phtml, line: 93
+# File: module/Application/view/application/orders/pending.phtml, line: 110
+# File: module/Application/view/application/orders/index.phtml, line: 110
+msgid "Date"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 62
 msgid "Today's Orders"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 72
+# File: module/Application/view/application/index/index.phtml, line: 87
 # File: module/Application/view/application/orders/pending.phtml, line: 104
 # File: module/Application/view/application/orders/index.phtml, line: 104
 # File: module/Application/view/application/products/index.phtml, line: 102
@@ -1147,27 +1154,217 @@ msgstr ""
 msgid "Id"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 76
+# File: module/Application/view/application/index/index.phtml, line: 91
 # File: module/Application/view/application/orders/new.phtml, line: 60
 # File: module/Application/view/application/orders/editpending.phtml, line: 13
 # File: module/Application/view/application/orders/pending.phtml, line: 108
 # File: module/Application/view/application/orders/edit.phtml, line: 13
-# File: module/Application/view/application/orders/search.phtml, line: 12
-# File: module/Application/view/application/orders/search.phtml, line: 82
 # File: module/Application/view/application/orders/index.phtml, line: 108
 msgid "Product"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 78
-# File: module/Application/view/application/orders/pending.phtml, line: 110
-# File: module/Application/view/application/orders/index.phtml, line: 110
-msgid "Date"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 78
+# File: module/Application/view/application/index/index.phtml, line: 93
 # File: module/Application/view/application/orders/pending.phtml, line: 110
 # File: module/Application/view/application/orders/index.phtml, line: 110
 msgid "Time"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "January"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "February"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "March"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "April"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 253
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "May"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "June"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "July"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "August"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "September"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "October"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "November"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 205
+# File: module/Application/view/application/orders/new.phtml, line: 253
+msgid "December"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Jan"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Feb"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Mar"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Apr"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Jun"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Jul"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Aug"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Sep"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Oct"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Nov'"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/orders/new.phtml, line: 254
+msgid "Dec"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 207
+# File: module/Application/view/application/orders/new.phtml, line: 255
+msgid "Sunday'"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 207
+# File: module/Application/view/application/orders/new.phtml, line: 255
+msgid "Monday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 207
+# File: module/Application/view/application/orders/new.phtml, line: 255
+msgid "Tuesday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 207
+# File: module/Application/view/application/orders/new.phtml, line: 255
+msgid "Wednesday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 207
+# File: module/Application/view/application/orders/new.phtml, line: 255
+msgid "Thursday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 207
+# File: module/Application/view/application/orders/new.phtml, line: 255
+msgid "Friday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 207
+# File: module/Application/view/application/orders/new.phtml, line: 255
+msgid "Saturday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 208
+# File: module/Application/view/application/orders/new.phtml, line: 256
+msgid "Sun"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 208
+# File: module/Application/view/application/orders/new.phtml, line: 256
+msgid "Mon"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 208
+# File: module/Application/view/application/orders/new.phtml, line: 256
+msgid "Tue"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 208
+# File: module/Application/view/application/orders/new.phtml, line: 256
+msgid "Wed"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 208
+# File: module/Application/view/application/orders/new.phtml, line: 256
+msgid "Thu"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 208
+# File: module/Application/view/application/orders/new.phtml, line: 256
+msgid "Fri"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 208
+# File: module/Application/view/application/orders/new.phtml, line: 256
+msgid "Sat"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 211
+# File: module/Application/view/application/orders/new.phtml, line: 259
+# File: module/Application/view/application/orders/new.phtml, line: 311
+msgid "Clear"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 212
+# File: module/Application/view/application/orders/new.phtml, line: 260
+msgid "Close"
 msgstr ""
 #
 # File: module/Application/view/application/orders/new.phtml, line: 7
@@ -1236,7 +1433,7 @@ msgid "In order to create an order, you need to select the product."
 msgstr ""
 #
 # File: module/Application/view/application/orders/new.phtml, line: 210
-# File: module/Application/view/application/orders/search.phtml, line: 214
+# File: module/Application/view/application/orders/search.phtml, line: 210
 msgid "Customer is required"
 msgstr ""
 #
@@ -1258,164 +1455,6 @@ msgstr ""
 #
 # File: module/Application/view/application/orders/new.phtml, line: 235
 msgid "In order to create an order, you need to input pickup time."
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "January"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "February"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "March"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "April"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "May"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "June"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "July"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "August"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "September"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "October"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "November"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 253
-msgid "December"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Jan"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Feb"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Mar"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Apr"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Jun"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Jul"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Aug"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Sep"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Oct"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Nov'"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 254
-msgid "Dec"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 255
-msgid "Sunday'"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 255
-msgid "Monday"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 255
-msgid "Tuesday"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 255
-msgid "Wednesday"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 255
-msgid "Thursday"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 255
-msgid "Friday"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 255
-msgid "Saturday"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 256
-msgid "Sun"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 256
-msgid "Mon"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 256
-msgid "Tue"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 256
-msgid "Wed"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 256
-msgid "Thu"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 256
-msgid "Fri"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 256
-msgid "Sat"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 259
-# File: module/Application/view/application/orders/new.phtml, line: 311
-msgid "Clear"
-msgstr ""
-#
-# File: module/Application/view/application/orders/new.phtml, line: 260
-msgid "Close"
 msgstr ""
 #
 # File: module/Application/view/application/orders/new.phtml, line: 269
@@ -1458,7 +1497,7 @@ msgstr ""
 msgid "Search Order"
 msgstr ""
 #
-# File: module/Application/view/application/orders/search.phtml, line: 215
+# File: module/Application/view/application/orders/search.phtml, line: 211
 msgid "In order to search order, you need to input the customer."
 msgstr ""
 #
